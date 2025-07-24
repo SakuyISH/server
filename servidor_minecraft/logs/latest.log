@@ -34,3 +34,15 @@
 [17:23:23] [Server thread/INFO]: P3lus1ta fell out of the world
 [17:24:26] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
 [17:27:54] [Server thread/INFO]: [Sakuy_Ish: Set the time to 1000]
+[17:57:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[17:59:20] [Server thread/INFO]: [Sakuy_Ish: Set own game mode to Survival Mode]
+[17:59:31] [Server thread/INFO]: [P3lus1ta: Set own game mode to Survival Mode]
+[18:00:05] [Server thread/WARN]: P3lus1ta was kicked for floating too long!
+[18:00:05] [Server thread/INFO]: P3lus1ta lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:00:05] [Server thread/INFO]: P3lus1ta left the game
+[18:00:29] [Server thread/INFO]: P3lus1ta[/127.97.211.58:34321] logged in with entity id 177023 at (-26.681376114029312, 114.03520158335114, 247.46080907553207)
+[18:00:29] [Server thread/INFO]: P3lus1ta joined the game
+[18:00:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:00:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:00:42] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
+[18:00:56] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
