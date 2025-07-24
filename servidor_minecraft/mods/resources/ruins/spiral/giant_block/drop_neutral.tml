@@ -1,0 +1,32 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,1,1
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:setblock ~ ~ ~ lucky:lucky_block 0 replace {Drops:[0:\"group(type=difficulty,ID=hard;type=entity,ID=PigZombie,NBTTag=(Attributes=[(Name=generic.maxHealth,Base=100f)],CustomName=\\\"#e#lMaster of the Spiral\\\",Equipment=[(Count=1,id=\\\"lootplusplus:spiral.spiral_sword\\\",tag=(display=(Name=\\\"#e#lSpiral Sword\\\",Lore=[\\\"\\\",\\\"#9Dropped by Master of the Spiral\\\"]),ench=#luckySwordEnchantments,Unbreakable=true)),(Count=1,id=\\\"lootplusplus:spiral.spiral_boots\\\",tag=(Unbreakable=true,ench=#luckyBootsEnchantments,display=(Lore=[\\\"#7Swiftness II\\\",\\\"\\\",\\\"#9Dropped by Master of the Spiral\\\"],Name=\\\"#e#lSpeedy Spiral Lucky Boots\\\"),AttributeModifiers=[(AttributeName=generic.movementSpeed,Name=fast,Amount=0.4f,Operation=1,UUIDLeast=2,UUIDMost=2)])),(Count=1,id=\\\"lootplusplus:spiral.spiral_leggings\\\",tag=(Unbreakable=true,ench=#luckyLeggingsEnchantments,display=(Lore=[\\\"#7Knockback Resistance I\\\",\\\"\\\",\\\"#9Dropped by Master of the Spiral\\\"],Name=\\\"#e#lRiveting Spiral Lucky Leggings\\\"),AttributeModifiers=[(AttributeName=generic.knockbackResistance,Name=\\\"resist\\\",Amount=1,Operation=0,UUIDLeast=1,UUIDMost=1)])),(Count=1,id=\\\"lootplusplus:spiral.spiral_chestplate\\\",tag=(Unbreakable=true,ench=#luckyChestplateEnchantments,display=(Lore=[\\\"#7Strength I\\\",\\\"\\\",\\\"#9Dropped by Master of the Spiral\\\"],Name=\\\"#e#lStrengthening Spiral Lucky Chestplate\\\"),AttributeModifiers=[(AttributeName=generic.attackDamage,Name=\\\"strength\\\",Amount=1.3f,Operation=1,UUIDLeast=4,UUIDMost=4)])),(Count=1,id=\\\"lootplusplus:spiral.spiral_helmet\\\",tag=(Unbreakable=true,ench=#luckyHelmetEnchantments,display=(Lore=[\\\"#7Health Boost II\\\",\\\"\\\",\\\"#9Dropped by Master of the Spiral\\\"],Name=\\\"#e#lFortifying Spiral Lucky Helmet\\\"),AttributeModifiers=[(AttributeName=generic.maxHealth,Name=\\\"health\\\",Amount=8,Operation=0,UUIDLeast=3,UUIDMost=3)]))],DropChances=[0.25f,0.25f,0.25f,0.25f,0.25f]))\",1:\"group(type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#6#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=5,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#9#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=20,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#a#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=20,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#b#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=20,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#c#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=5,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#d#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=20,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true;type=entity,ID=lootplusplus.Label,NBTTag=(CustomName=#e#lPixie,CustomNameVisible=true,Riding=(id=XPOrb,Value=5,Riding=(id=Bat,Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)]))),amount=#random-3-5,scatterOffset=0-4,reinitialize=true)\"]}:@
+rule2=0,100,lootplusplus:command_block_trigger-0
+rule3=0,100,CommandBlock:setblock ~ ~-1 ~ redstone_block:@
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+
+layer
+3
+endlayer
+

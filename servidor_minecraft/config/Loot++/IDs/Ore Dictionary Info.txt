@@ -1,0 +1,2158 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+alumiteRod
+TConstruct:toolRod - 15
+
+
+arditeRod
+TConstruct:toolRod - 11
+
+
+blockAluminium
+TConstruct:MetalBlock - 6
+
+
+blockAluminiumBrass
+TConstruct:MetalBlock - 7
+
+
+blockAluminum
+TConstruct:MetalBlock - 6
+
+
+blockAluminumBrass
+TConstruct:MetalBlock - 7
+
+
+blockAlumite
+TConstruct:MetalBlock - 8
+
+
+blockArdite
+TConstruct:MetalBlock - 1
+
+
+blockBronze
+TConstruct:MetalBlock - 4
+
+
+blockCoal
+minecraft:coal_block - 0
+
+
+blockCobalt
+TConstruct:MetalBlock - 0
+
+
+blockCopper
+TConstruct:MetalBlock - 3
+
+
+blockDiamond
+minecraft:diamond_block - 0
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockEnder
+TConstruct:MetalBlock - 10
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+TConstruct:GlassBlock - 0
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+
+
+blockGlue
+
+
+blockGold
+minecraft:gold_block - 0
+
+
+blockIron
+minecraft:iron_block - 0
+
+
+blockLapis
+minecraft:lapis_block - 0
+
+
+blockManyullyn
+TConstruct:MetalBlock - 2
+
+
+blockNaturalAluminum
+
+
+blockObsidian
+
+
+blockPigIron
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+blockRubber
+TConstruct:GlueBlock - 0
+
+
+blockSteel
+TConstruct:MetalBlock - 9
+
+
+blockTin
+TConstruct:MetalBlock - 5
+
+
+blueslimeRod
+TConstruct:toolRod - 17
+
+
+boneRod
+TConstruct:toolRod - 5
+
+
+bronzeRod
+TConstruct:toolRod - 14
+
+
+cactusRod
+TConstruct:toolRod - 4
+
+
+chestWood
+minecraft:chest - 0
+
+
+cobaltRod
+TConstruct:toolRod - 10
+
+
+cobblestone
+minecraft:cobblestone - 0
+
+
+compressedAluminum
+GalacticraftCore:item.basicItem - 8
+
+
+compressedBronze
+GalacticraftCore:item.basicItem - 10
+
+
+compressedCobblestone1x
+
+
+compressedCobblestone2x
+
+
+compressedCobblestone3x
+
+
+compressedCobblestone4x
+
+
+compressedCopper
+GalacticraftCore:item.basicItem - 6
+
+
+compressedDesh
+GalacticraftMars:item.null - 5
+
+
+compressedGravel1x
+
+
+compressedGravel2x
+
+
+compressedIron
+GalacticraftCore:item.basicItem - 11
+
+
+compressedMeteoricIron
+GalacticraftCore:item.meteoricIronIngot - 1
+
+
+compressedSand1x
+
+
+compressedSand2x
+
+
+compressedSteel
+GalacticraftCore:item.basicItem - 9
+
+
+compressedTin
+GalacticraftCore:item.basicItem - 7
+
+
+compressedTitanium
+GalacticraftMars:item.itemBasicAsteroids - 6
+
+
+copperRod
+TConstruct:toolRod - 13
+
+
+crafterWood
+minecraft:crafting_table - 0
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+crystallineAluminum
+
+
+crystallineAluminumBrass
+
+
+crystallineAlumite
+
+
+crystallineArdite
+
+
+crystallineBronze
+
+
+crystallineCobalt
+
+
+crystallineCopper
+
+
+crystallineGlue
+
+
+crystallineGold
+
+
+crystallineIron
+
+
+crystallineManyullyn
+
+
+crystallineNaturalAluminum
+
+
+crystallineObsidian
+
+
+crystallinePigIron
+
+
+crystallineSteel
+
+
+crystallineTin
+
+
+denseoreAluminum
+
+
+denseoreAluminumBrass
+
+
+denseoreAlumite
+
+
+denseoreArdite
+
+
+denseoreBronze
+
+
+denseoreCobalt
+
+
+denseoreCopper
+
+
+denseoreGlue
+
+
+denseoreGold
+
+
+denseoreIron
+
+
+denseoreManyullyn
+
+
+denseoreNaturalAluminum
+
+
+denseorePigIron
+
+
+denseoreSteel
+
+
+denseoreTin
+
+
+dustAluminium
+TConstruct:materials - 40
+
+
+dustAluminiumBrass
+TConstruct:materials - 42
+
+
+dustAluminum
+TConstruct:materials - 40
+
+
+dustAluminumBrass
+TConstruct:materials - 42
+
+
+dustAlumite
+
+
+dustArdite
+TConstruct:materials - 38
+
+
+dustBronze
+
+
+dustCobalt
+TConstruct:materials - 39
+
+
+dustCopper
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGlue
+
+
+dustGold
+
+
+dustIron
+
+
+dustManyullyn
+TConstruct:materials - 41
+
+
+dustNaturalAluminum
+
+
+dustObsidian
+
+
+dustPigIron
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustSteel
+
+
+dustTin
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+
+
+dyeBlue
+minecraft:dye - 4
+
+
+dyeBrown
+minecraft:dye - 3
+
+
+dyeCyan
+minecraft:dye - 6
+
+
+dyeGray
+minecraft:dye - 8
+
+
+dyeGreen
+minecraft:dye - 2
+
+
+dyeLightBlue
+minecraft:dye - 12
+
+
+dyeLightGray
+minecraft:dye - 7
+
+
+dyeLime
+minecraft:dye - 10
+
+
+dyeMagenta
+minecraft:dye - 13
+
+
+dyeOrange
+minecraft:dye - 14
+
+
+dyePink
+minecraft:dye - 9
+
+
+dyePurple
+minecraft:dye - 5
+
+
+dyeRed
+minecraft:dye - 1
+
+
+dyeWhite
+minecraft:dye - 15
+
+
+dyeYellow
+minecraft:dye - 11
+
+
+flintRod
+TConstruct:toolRod - 3
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+glassBlack
+TConstruct:GlassBlock.StainedClear - 15
+
+
+glassBlue
+TConstruct:GlassBlock.StainedClear - 11
+
+
+glassBrown
+TConstruct:GlassBlock.StainedClear - 12
+
+
+glassCyan
+TConstruct:GlassBlock.StainedClear - 9
+
+
+glassGray
+TConstruct:GlassBlock.StainedClear - 7
+
+
+glassGreen
+TConstruct:GlassBlock.StainedClear - 13
+
+
+glassLightBlue
+TConstruct:GlassBlock.StainedClear - 3
+
+
+glassLightGray
+TConstruct:GlassBlock.StainedClear - 8
+
+
+glassLime
+TConstruct:GlassBlock.StainedClear - 5
+
+
+glassMagenta
+TConstruct:GlassBlock.StainedClear - 2
+
+
+glassOrange
+TConstruct:GlassBlock.StainedClear - 1
+
+
+glassPink
+TConstruct:GlassBlock.StainedClear - 6
+
+
+glassPurple
+TConstruct:GlassBlock.StainedClear - 10
+
+
+glassRed
+TConstruct:GlassBlock.StainedClear - 14
+
+
+glassWhite
+TConstruct:GlassBlock.StainedClear - 0
+
+
+glassYellow
+TConstruct:GlassBlock.StainedClear - 4
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+hambone
+TConstruct:MeatBlock - 0
+
+
+ingotAluminium
+TConstruct:materials - 11
+
+
+ingotAluminiumBrass
+TConstruct:materials - 14
+
+
+ingotAluminum
+GalacticraftCore:item.basicItem - 5
+TConstruct:materials - 11
+
+
+ingotAluminumBrass
+TConstruct:materials - 14
+
+
+ingotAlumite
+TConstruct:materials - 15
+
+
+ingotArdite
+TConstruct:materials - 4
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBronze
+TConstruct:materials - 13
+
+
+ingotCobalt
+TConstruct:materials - 3
+
+
+ingotCopper
+GalacticraftCore:item.basicItem - 3
+TConstruct:materials - 9
+
+
+ingotDesh
+GalacticraftMars:item.null - 2
+
+
+ingotGlue
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotManyullyn
+TConstruct:materials - 5
+
+
+ingotMeteoricIron
+GalacticraftCore:item.meteoricIronIngot - 0
+
+
+ingotNaturalAluminum
+
+
+ingotObsidian
+TConstruct:materials - 18
+
+
+ingotPigIron
+TConstruct:materials - 34
+
+
+ingotSteel
+TConstruct:materials - 16
+
+
+ingotTin
+GalacticraftCore:item.basicItem - 4
+TConstruct:materials - 10
+
+
+ingotTitanium
+GalacticraftMars:item.itemBasicAsteroids - 5
+
+
+ironRod
+TConstruct:toolRod - 2
+
+
+itemRawRubber
+TConstruct:materials - 36
+
+
+itemRubber
+
+
+itemSilicon
+
+
+itemSkull
+headcrumbs:head - any
+minecraft:skull - any
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+
+
+manyullynRod
+TConstruct:toolRod - 12
+
+
+mobEgg
+headcrumbs:egg - 0
+
+
+netherrackRod
+TConstruct:toolRod - 7
+
+
+nuggetAluminium
+TConstruct:oreBerries - 4
+TConstruct:materials - 22
+
+
+nuggetAluminiumBrass
+TConstruct:materials - 24
+
+
+nuggetAluminum
+TConstruct:oreBerries - 4
+TConstruct:materials - 22
+
+
+nuggetAluminumBrass
+TConstruct:materials - 24
+
+
+nuggetAlumite
+TConstruct:materials - 32
+
+
+nuggetArdite
+TConstruct:materials - 29
+
+
+nuggetBronze
+TConstruct:materials - 31
+
+
+nuggetCobalt
+TConstruct:materials - 28
+
+
+nuggetCopper
+TConstruct:oreBerries - 2
+TConstruct:materials - 20
+
+
+nuggetGlue
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+TConstruct:oreBerries - 1
+
+
+nuggetIron
+jaff:iron_nugget - 0
+TConstruct:oreBerries - 0
+TConstruct:materials - 19
+
+
+nuggetManyullyn
+TConstruct:materials - 30
+
+
+nuggetNaturalAluminum
+
+
+nuggetObsidian
+TConstruct:materials - 27
+
+
+nuggetPigIron
+TConstruct:materials - 35
+
+
+nuggetSteel
+TConstruct:materials - 33
+
+
+nuggetTin
+TConstruct:oreBerries - 3
+TConstruct:materials - 21
+
+
+obsidianRod
+TConstruct:toolRod - 6
+
+
+oreAluminium
+GalacticraftCore:tile.gcBlockCore - 7
+GalacticraftMars:tile.asteroidsBlock - 3
+TConstruct:SearedBrick - 5
+TConstruct:GravelOre - 4
+
+
+oreAluminum
+GalacticraftCore:tile.gcBlockCore - 7
+GalacticraftMars:tile.asteroidsBlock - 3
+TConstruct:SearedBrick - 5
+TConstruct:GravelOre - 4
+
+
+oreAluminumBrass
+
+
+oreAlumite
+
+
+oreArdite
+TConstruct:SearedBrick - 2
+
+
+oreBronze
+
+
+oreCheese
+GalacticraftCore:tile.moonBlock - 2
+
+
+oreCoal
+minecraft:coal_ore - 0
+
+
+oreCobalt
+TConstruct:SearedBrick - 1
+TConstruct:GravelOre - 5
+
+
+oreCopper
+GalacticraftCore:tile.gcBlockCore - 5
+GalacticraftCore:tile.moonBlock - 0
+GalacticraftMars:tile.mars - 0
+TConstruct:SearedBrick - 3
+TConstruct:GravelOre - 2
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+
+
+oreGlue
+
+
+oreGold
+minecraft:gold_ore - 0
+TConstruct:GravelOre - 1
+
+
+oreIron
+minecraft:iron_ore - 0
+GalacticraftMars:tile.asteroidsBlock - 5
+GalacticraftMars:tile.mars - 3
+TConstruct:GravelOre - 0
+
+
+oreLapis
+minecraft:lapis_ore - 0
+
+
+oreManyullyn
+
+
+oreNaturalAluminum
+GalacticraftCore:tile.gcBlockCore - 7
+GalacticraftMars:tile.asteroidsBlock - 3
+
+
+oreNetherAluminum
+
+
+oreNetherAluminumBrass
+
+
+oreNetherAlumite
+
+
+oreNetherArdite
+
+
+oreNetherBronze
+
+
+oreNetherCobalt
+
+
+oreNetherCopper
+
+
+oreNetherGlue
+
+
+oreNetherGold
+
+
+oreNetherIron
+
+
+oreNetherManyullyn
+
+
+oreNetherNaturalAluminum
+
+
+oreNetherObsidian
+
+
+oreNetherPigIron
+
+
+oreNetherSteel
+
+
+oreNetherTin
+
+
+oreObsidian
+
+
+orePigIron
+
+
+orePoorAluminum
+
+
+orePoorAluminumBrass
+
+
+orePoorAlumite
+
+
+orePoorArdite
+
+
+orePoorBronze
+
+
+orePoorCobalt
+
+
+orePoorCopper
+
+
+orePoorGlue
+
+
+orePoorGold
+
+
+orePoorIron
+
+
+orePoorManyullyn
+
+
+orePoorNaturalAluminum
+
+
+orePoorObsidian
+
+
+orePoorPigIron
+
+
+orePoorSteel
+
+
+orePoorTin
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+
+
+oreSilicon
+GalacticraftCore:tile.gcBlockCore - 8
+
+
+oreSteel
+
+
+oreTin
+GalacticraftCore:tile.gcBlockCore - 6
+GalacticraftCore:tile.moonBlock - 1
+GalacticraftMars:tile.mars - 1
+TConstruct:SearedBrick - 4
+TConstruct:GravelOre - 3
+
+
+oreberryAluminium
+TConstruct:oreBerries - 4
+
+
+oreberryAluminum
+TConstruct:oreBerries - 4
+
+
+oreberryCopper
+TConstruct:oreBerries - 2
+
+
+oreberryEssence
+TConstruct:oreBerries - 1
+
+
+oreberryGold
+TConstruct:oreBerries - 1
+
+
+oreberryIron
+TConstruct:oreBerries - 0
+
+
+oreberryTin
+TConstruct:oreBerries - 3
+
+
+orebushAluminium
+TConstruct:ore.berries.two - 0
+
+
+orebushAluminum
+TConstruct:ore.berries.two - 0
+
+
+orebushCopper
+TConstruct:ore.berries.one - 2
+
+
+orebushEssence
+TConstruct:ore.berries.two - 1
+
+
+orebushGold
+TConstruct:ore.berries.one - 1
+
+
+orebushIron
+TConstruct:ore.berries.one - 0
+
+
+orebushTin
+TConstruct:ore.berries.one - 3
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paperRod
+TConstruct:toolRod - 9
+
+
+plankWood
+minecraft:planks - any
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+
+
+rodAlumite
+TConstruct:toolRod - 15
+
+
+rodArdite
+TConstruct:toolRod - 11
+
+
+rodBlueslime
+TConstruct:toolRod - 17
+
+
+rodBone
+TConstruct:toolRod - 5
+
+
+rodBronze
+TConstruct:toolRod - 14
+
+
+rodCactus
+TConstruct:toolRod - 4
+
+
+rodCobalt
+TConstruct:toolRod - 10
+
+
+rodCopper
+TConstruct:toolRod - 13
+
+
+rodFlint
+TConstruct:toolRod - 3
+
+
+rodIron
+TConstruct:toolRod - 2
+
+
+rodManyullyn
+TConstruct:toolRod - 12
+
+
+rodNetherrack
+TConstruct:toolRod - 7
+
+
+rodObsidian
+TConstruct:toolRod - 6
+
+
+rodPaper
+TConstruct:toolRod - 9
+
+
+rodSlime
+TConstruct:toolRod - 8
+
+
+rodSteel
+TConstruct:toolRod - 16
+
+
+rodStone
+TConstruct:toolRod - 1
+
+
+rodWood
+TConstruct:toolRod - 0
+
+
+sand
+minecraft:sand - any
+
+
+sandstone
+minecraft:sandstone - any
+
+
+shardIron
+GalacticraftMars:item.itemBasicAsteroids - 3
+
+
+shardTitanium
+GalacticraftMars:item.itemBasicAsteroids - 4
+
+
+skullAngryZombie
+headcrumbs:head - 70
+
+
+skullAnubis
+headcrumbs:head - 103
+
+
+skullBabySpider
+headcrumbs:head - 100
+
+
+skullBanshee
+headcrumbs:head - 104
+
+
+skullBaphomet
+headcrumbs:head - 105
+
+
+skullBasalz
+headcrumbs:head - 193
+
+
+skullBat
+headcrumbs:head - 46
+
+
+skullBehemoth
+headcrumbs:head - 83
+
+
+skullBelph
+headcrumbs:head - 84
+
+
+skullBighorn
+headcrumbs:head - 20
+
+
+skullBlaze
+headcrumbs:head - 1
+
+
+skullBlazingJuggernaut
+headcrumbs:head - 97
+
+
+skullBlitz
+headcrumbs:head - 192
+
+
+skullBlizz
+headcrumbs:head - 27
+
+
+skullBrainSlime
+headcrumbs:head - 102
+
+
+skullBunnyBrown
+headcrumbs:head - 39
+
+
+skullBunnyDutch
+headcrumbs:head - 18
+
+
+skullBunnyWhite
+headcrumbs:head - 40
+
+
+skullButler
+headcrumbs:head - 139
+
+
+skullCakeCreeper
+headcrumbs:head - 170
+
+
+skullCaveSpider
+headcrumbs:head - 5
+
+
+skullCentaur
+headcrumbs:head - 106
+
+
+skullChicken
+headcrumbs:head - 12
+
+
+skullCobbleGolem
+headcrumbs:head - 107
+
+
+skullCobblestoneGolem
+headcrumbs:head - 108
+
+
+skullCockatrice
+headcrumbs:head - 109
+
+
+skullConcussionCreeper
+headcrumbs:head - 85
+
+
+skullCookieCreeper
+headcrumbs:head - 154
+
+
+skullCow
+headcrumbs:head - 7
+
+
+skullCreeper
+minecraft:skull - 4
+
+
+skullCultist
+headcrumbs:head - 148
+
+
+skullCyclops
+headcrumbs:head - 110
+
+
+skullDarkCreeper
+headcrumbs:head - 155
+
+
+skullDhampir
+headcrumbs:head - 111
+
+
+skullDireWolf
+headcrumbs:head - 89
+
+
+skullDonkey
+headcrumbs:head - 56
+
+
+skullDruid
+headcrumbs:head - 24
+
+
+skullDryad
+headcrumbs:head - 112
+
+
+skullDullahan
+headcrumbs:head - 113
+
+
+skullEarthCreeper
+headcrumbs:head - 157
+
+
+skullEldritchCrab
+headcrumbs:head - 149
+
+
+skullEldritchGuardian
+headcrumbs:head - 80
+
+
+skullElectricCreeper
+headcrumbs:head - 152
+
+
+skullEnderCreeper
+headcrumbs:head - 167
+
+
+skullEnderDragon
+headcrumbs:head - 37
+
+
+skullEnderDragonGirl
+headcrumbs:head - 114
+
+
+skullEnderEye
+headcrumbs:head - 115
+
+
+skullEnderman
+headcrumbs:head - 2
+
+
+skullEnderminy
+headcrumbs:head - 86
+
+
+skullEndermite
+headcrumbs:head - 176
+
+
+skullFallenKnight
+headcrumbs:head - 87
+
+
+skullFestiveCreeper
+headcrumbs:head - 92
+
+
+skullFireBat
+headcrumbs:head - 71
+
+
+skullFireBeetle
+headcrumbs:head - 34
+
+
+skullFireCreeper
+headcrumbs:head - 150
+
+
+skullFireworkCreeper
+headcrumbs:head - 171
+
+
+skullFleshLich
+headcrumbs:head - 116
+
+
+skullFriendlyCreeper
+headcrumbs:head - 161
+
+
+skullFutakuchiOnna
+headcrumbs:head - 117
+
+
+skullGhast
+headcrumbs:head - 26
+
+
+skullGhostCreeper
+headcrumbs:head - 153
+
+
+skullGogWitch
+headcrumbs:head - 144
+
+
+skullGryphon
+headcrumbs:head - 118
+
+
+skullGuardGhast
+headcrumbs:head - 30
+
+
+skullGuardian
+headcrumbs:head - 177
+
+
+skullGuardianElder
+headcrumbs:head - 178
+
+
+skullHarpy
+headcrumbs:head - 119
+
+
+skullHeatscarSpider
+headcrumbs:head - 69
+
+
+skullHedgeSpider
+headcrumbs:head - 25
+
+
+skullHorseBlack
+headcrumbs:head - 49
+
+
+skullHorseBrown
+headcrumbs:head - 50
+
+
+skullHorseChestnut
+headcrumbs:head - 51
+
+
+skullHorseCreamy
+headcrumbs:head - 52
+
+
+skullHorseDarkBrown
+headcrumbs:head - 53
+
+
+skullHorseGrey
+headcrumbs:head - 54
+
+
+skullHorseSkeleton
+headcrumbs:head - 59
+
+
+skullHorseUndead
+headcrumbs:head - 58
+
+
+skullHorseWhite
+headcrumbs:head - 55
+
+
+skullHostileWolf
+headcrumbs:head - 38
+
+
+skullHunter
+headcrumbs:head - 120
+
+
+skullHydra
+headcrumbs:head - 187
+
+
+skullHydrogenCreeper
+headcrumbs:head - 166
+
+
+skullIceCreeper
+headcrumbs:head - 160
+
+
+skullIllusionCreeper
+headcrumbs:head - 162
+
+
+skullImp
+headcrumbs:head - 67
+
+
+skullIronGolem
+headcrumbs:head - 15
+
+
+skullJetPackSpider
+headcrumbs:head - 175
+
+
+skullJorogumo
+headcrumbs:head - 121
+
+
+skullKingSpider
+headcrumbs:head - 31
+
+
+skullKobold
+headcrumbs:head - 32
+
+
+skullLaserCreeper
+headcrumbs:head - 173
+
+
+skullLich
+headcrumbs:head - 189
+
+
+skullLightCreeper
+headcrumbs:head - 156
+
+
+skullLilyLurker
+headcrumbs:head - 98
+
+
+skullLostMiner
+headcrumbs:head - 94
+
+
+skullLycanites
+headcrumbs:head - 81
+
+
+skullMagmaCreeper
+headcrumbs:head - 158
+
+
+skullMagmaCube
+headcrumbs:head - 48
+
+
+skullMandragora
+headcrumbs:head - 122
+
+
+skullMazeSlime
+headcrumbs:head - 65
+
+
+skullMermaid
+headcrumbs:head - 123
+
+
+skullMimic
+headcrumbs:head - 124
+
+
+skullMiniGhast
+headcrumbs:head - 29
+
+
+skullMinotaur
+headcrumbs:head - 125
+
+
+skullMinotaurus
+headcrumbs:head - 126
+
+
+skullMistWolf
+headcrumbs:head - 28
+
+
+skullMooshroom
+headcrumbs:head - 8
+
+
+skullMotherSpider
+headcrumbs:head - 99
+
+
+skullMule
+headcrumbs:head - 57
+
+
+skullNaga
+headcrumbs:head - 127
+
+
+skullNagaTF
+headcrumbs:head - 188
+
+
+skullNineTails
+headcrumbs:head - 128
+
+
+skullNitroCreeper
+headcrumbs:head - 68
+
+
+skullOcelot
+headcrumbs:head - 42
+
+
+skullOcelotBlack
+headcrumbs:head - 43
+
+
+skullOcelotRed
+headcrumbs:head - 44
+
+
+skullOcelotSiamese
+headcrumbs:head - 45
+
+
+skullPech
+headcrumbs:head - 79
+
+
+skullPenguin
+headcrumbs:head - 19
+
+
+skullPig
+headcrumbs:head - 6
+
+
+skullPigman
+headcrumbs:head - 3
+
+
+skullPinchBeetle
+headcrumbs:head - 35
+
+
+skullPinky
+headcrumbs:head - 82
+
+
+skullPlayer
+headcrumbs:head - 0
+minecraft:skull - 3
+
+
+skullPsychicCreeper
+headcrumbs:head - 163
+
+
+skullRabbitBlack
+headcrumbs:head - 180
+
+
+skullRabbitBrown
+headcrumbs:head - 181
+
+
+skullRabbitGold
+headcrumbs:head - 182
+
+
+skullRabbitSalt
+headcrumbs:head - 183
+
+
+skullRabbitSplotched
+headcrumbs:head - 185
+
+
+skullRabbitToast
+headcrumbs:head - 184
+
+
+skullRabbitWhite
+headcrumbs:head - 186
+
+
+skullRedcap
+headcrumbs:head - 23
+
+
+skullReverseCreeper
+headcrumbs:head - 159
+
+
+skullRoboDino
+headcrumbs:head - 174
+
+
+skullRocketCreeper
+headcrumbs:head - 91
+
+
+skullSahuagin
+headcrumbs:head - 129
+
+
+skullSatyr
+headcrumbs:head - 130
+
+
+skullSelkie
+headcrumbs:head - 131
+
+
+skullShaman
+headcrumbs:head - 132
+
+
+skullSharko
+headcrumbs:head - 133
+
+
+skullSheep
+headcrumbs:head - 9
+
+
+skullSheepman
+headcrumbs:head - 95
+
+
+skullShulker
+headcrumbs:head - 179
+
+
+skullSilverfish
+headcrumbs:head - 61
+
+
+skullSiren
+headcrumbs:head - 134
+
+
+skullSkeleton
+minecraft:skull - 0
+
+
+skullSkeletonWarrior
+headcrumbs:head - 101
+
+
+skullSlime
+headcrumbs:head - 47
+
+
+skullSlimeBeetle
+headcrumbs:head - 33
+
+
+skullSludgeGirl
+headcrumbs:head - 135
+
+
+skullSnowMan
+headcrumbs:head - 60
+
+
+skullSnowQueen
+headcrumbs:head - 190
+
+
+skullSolarCreeper
+headcrumbs:head - 169
+
+
+skullSphinx
+headcrumbs:head - 136
+
+
+skullSpider
+headcrumbs:head - 4
+
+
+skullSpiderCreeper
+headcrumbs:head - 164
+
+
+skullSpriggan
+headcrumbs:head - 137
+
+
+skullSpringCreeper
+headcrumbs:head - 172
+
+
+skullSquid
+headcrumbs:head - 16
+
+
+skullSquirrel
+headcrumbs:head - 41
+
+
+skullStoneCreeper
+headcrumbs:head - 168
+
+
+skullSuccubus
+headcrumbs:head - 138
+
+
+skullSummoner
+headcrumbs:head - 96
+
+
+skullSupportCreeper
+headcrumbs:head - 93
+
+
+skullSwamper
+headcrumbs:head - 140
+
+
+skullSwarmSpider
+headcrumbs:head - 62
+
+
+skullTaintedChicken
+headcrumbs:head - 73
+
+
+skullTaintedCow
+headcrumbs:head - 74
+
+
+skullTaintedCreeper
+headcrumbs:head - 76
+
+
+skullTaintedPig
+headcrumbs:head - 75
+
+
+skullTaintedSheep
+headcrumbs:head - 78
+
+
+skullTaintedVillager
+headcrumbs:head - 77
+
+
+skullThaumicSlime
+headcrumbs:head - 72
+
+
+skullTowerBroodling
+headcrumbs:head - 63
+
+
+skullTowerGolem
+headcrumbs:head - 36
+
+
+skullTowerwoodBorer
+headcrumbs:head - 66
+
+
+skullUrGhast
+headcrumbs:head - 191
+
+
+skullValkyrie
+headcrumbs:head - 141
+
+
+skullVampire
+headcrumbs:head - 142
+
+
+skullVillager
+headcrumbs:head - 11
+
+
+skullWaterCreeper
+headcrumbs:head - 151
+
+
+skullWerecat
+headcrumbs:head - 143
+
+
+skullWildBoar
+headcrumbs:head - 22
+
+
+skullWildDeer
+headcrumbs:head - 21
+
+
+skullWindCreeper
+headcrumbs:head - 165
+
+
+skullWinterWolf
+headcrumbs:head - 64
+
+
+skullWitch
+headcrumbs:head - 13
+
+
+skullWither
+headcrumbs:head - 17
+
+
+skullWitherCat
+headcrumbs:head - 90
+
+
+skullWitherCow
+headcrumbs:head - 145
+
+
+skullWitherSkeleton
+minecraft:skull - 1
+
+
+skullWitherWitch
+headcrumbs:head - 88
+
+
+skullWolf
+headcrumbs:head - 10
+
+
+skullYeti
+headcrumbs:head - 146
+
+
+skullYukiOnna
+headcrumbs:head - 147
+
+
+skullZombie
+minecraft:skull - 2
+
+
+skullZombieVillager
+headcrumbs:head - 14
+
+
+slabCloth
+TConstruct:WoolSlab1 - any
+TConstruct:WoolSlab2 - any
+
+
+slabWood
+minecraft:wooden_slab - any
+
+
+slimeRod
+TConstruct:toolRod - 8
+
+
+slimeball
+minecraft:slime_ball - 0
+TConstruct:strangeFood - 0
+TConstruct:strangeFood - 1
+TConstruct:materials - 36
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+
+
+steelRod
+TConstruct:toolRod - 16
+
+
+stickWood
+minecraft:stick - 0
+aether_legacy:skyroot_stick - 0
+
+
+stone
+minecraft:stone - 0
+
+
+stoneMossy
+minecraft:stonebrick - 1
+minecraft:mossy_cobblestone - 0
+
+
+stoneRod
+TConstruct:toolRod - 1
+
+
+thaumiumRod
+TConstruct:toolRod - 31
+
+
+torchStone
+TConstruct:decoration.stonetorch - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+
+
+treeSapling
+minecraft:sapling - any
+
+
+waferAdvanced
+GalacticraftCore:item.basicItem - 14
+
+
+waferBasic
+GalacticraftCore:item.basicItem - 13
+
+
+waferSolar
+GalacticraftCore:item.basicItem - 12
+
+
+woodRod
+TConstruct:toolRod - 0
+
+

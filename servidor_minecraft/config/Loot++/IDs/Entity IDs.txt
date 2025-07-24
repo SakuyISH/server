@@ -1,0 +1,454 @@
+## Entity IDs ##
+AlienVillager
+Arrow
+Bat
+BatBike
+Blaze
+Boat
+BunnyBike
+CaveSpider
+Celebrity
+Chicken
+ChickenBike
+ChineseDragonBike
+ChocoboBike
+Cow
+CowBike
+Creeper
+CreeperBike
+CreeperBoss
+DinoBike
+DinoBike2
+DinoBike3
+DinoBike4
+DragonBike
+EnderCrystal
+EnderDragon
+Enderman
+EndermanBike
+EntityHorse
+EntityThrownItem
+EvolvedCreeper
+EvolvedSkeleton
+EvolvedSkeletonBoss
+EvolvedSpider
+EvolvedZombie
+EyeOfEnderSignal
+FallingSand
+Fireball
+FireworksRocketEntity
+FlowerBike
+GalacticraftCore.Buggy
+GalacticraftCore.CelestialScreen
+GalacticraftCore.GCFlag
+GalacticraftCore.Lander
+GalacticraftCore.Meteor
+GalacticraftCore.MeteorChunk
+GalacticraftCore.OxygenBubble
+GalacticraftCore.ParaChest
+GalacticraftCore.Spaceship
+GalacticraftMars.AstroMiner
+GalacticraftMars.CargoRocket
+GalacticraftMars.EntryPodAsteroids
+GalacticraftMars.GrappleHookGC
+GalacticraftMars.LandingBalloons
+GalacticraftMars.ProjectileTNT
+GalacticraftMars.SmallAsteroidGC
+GalacticraftMars.SpaceshipT2
+GalacticraftMars.TerraformBubble
+GalacticraftMars.Tier3RocketGC
+Ghast
+GhastBike
+Giant
+IronmanBike
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+MoCreatures.Ant
+MoCreatures.Bear
+MoCreatures.Bee
+MoCreatures.BigCat
+MoCreatures.BigGolem
+MoCreatures.Bird
+MoCreatures.Boar
+MoCreatures.Bunny
+MoCreatures.ButterFly
+MoCreatures.Crab
+MoCreatures.Cricket
+MoCreatures.Crocodile
+MoCreatures.Deer
+MoCreatures.Dolphin
+MoCreatures.DragonFly
+MoCreatures.Duck
+MoCreatures.Egg
+MoCreatures.Elephant
+MoCreatures.Ent
+MoCreatures.Firefly
+MoCreatures.FishBowl
+MoCreatures.Fishy
+MoCreatures.FlameWraith
+MoCreatures.Fly
+MoCreatures.Fox
+MoCreatures.Goat
+MoCreatures.HellRat
+MoCreatures.HorseMob
+MoCreatures.JellyFish
+MoCreatures.Kitty
+MoCreatures.KittyBed
+MoCreatures.KomodoDragon
+MoCreatures.LitterBox
+MoCreatures.Maggot
+MoCreatures.MediumFish
+MoCreatures.MiniGolem
+MoCreatures.MoCPlatform
+MoCreatures.Mole
+MoCreatures.Mouse
+MoCreatures.Ogre
+MoCreatures.Ostrich
+MoCreatures.PetScorpion
+MoCreatures.Piranha
+MoCreatures.Raccoon
+MoCreatures.Rat
+MoCreatures.Ray
+MoCreatures.Roach
+MoCreatures.Scorpion
+MoCreatures.Shark
+MoCreatures.SilverSkeleton
+MoCreatures.SmallFish
+MoCreatures.Snail
+MoCreatures.Snake
+MoCreatures.TRock
+MoCreatures.Turkey
+MoCreatures.Turtle
+MoCreatures.WWolf
+MoCreatures.Werewolf
+MoCreatures.WildHorse
+MoCreatures.Wraith
+MoCreatures.Wyvern
+Mob
+Monster
+MushroomCow
+MutantCreatures.Chemical X
+MutantCreatures.CreeperMinion
+MutantCreatures.CreeperMinionEgg
+MutantCreatures.EnderBlock
+MutantCreatures.EndermanClone
+MutantCreatures.EndersoulFragment
+MutantCreatures.MutantCreeper
+MutantCreatures.MutantEnderman
+MutantCreatures.MutantSkeleton
+MutantCreatures.MutantSnowGolem
+MutantCreatures.MutantZombie
+MutantCreatures.SkeletonPart
+MutantCreatures.SkeletonShot
+MutantCreatures.SkullSpirit
+MutantCreatures.SnowGolemBlock
+MutantCreatures.SpiderPig
+MutantCreatures.ZombieMinion
+NotchBike
+OcelotBike
+OcelotBikeChild
+Ozelot
+Painting
+Pig
+PigBike
+PigZombie
+PonyBike
+PonyFlyingBike
+PrimedTnt
+ReindeerBike
+Sheep
+SheepBike
+Silverfish
+SilverfishBike
+Skeleton
+Slime
+SlimeBike
+Slimeling
+Sludgeling
+SmallFireball
+SnowMan
+Snowball
+SnowmanBike
+SpecialMobs.ArmorCreeper
+SpecialMobs.BabyCaveSpider
+SpecialMobs.BabyGhast
+SpecialMobs.BabySpider
+SpecialMobs.BlackberrySlime
+SpecialMobs.BlindingEnderman
+SpecialMobs.BlindingSilverfish
+SpecialMobs.BlueberrySlime
+SpecialMobs.BrutishPigZombie
+SpecialMobs.BrutishSkeleton
+SpecialMobs.BrutishZombie
+SpecialMobs.CaramelSlime
+SpecialMobs.CinderBlaze
+SpecialMobs.ConflagrationBlaze
+SpecialMobs.CursedEnderman
+SpecialMobs.DarkCreeper
+SpecialMobs.DeathCreeper
+SpecialMobs.DesertSpider
+SpecialMobs.DirtCreeper
+SpecialMobs.DominationWitch
+SpecialMobs.DoomCreeper
+SpecialMobs.DrowningCreeper
+SpecialMobs.EmberBlaze
+SpecialMobs.EnderCreeper
+SpecialMobs.FaintGhast
+SpecialMobs.FighterGhast
+SpecialMobs.FireCreeper
+SpecialMobs.FireSkeleton
+SpecialMobs.FireZombie
+SpecialMobs.FishingPigZombie
+SpecialMobs.FishingSilverfish
+SpecialMobs.FishingZombie
+SpecialMobs.FlyingCaveSpider
+SpecialMobs.FlyingSilverfish
+SpecialMobs.FlyingSpider
+SpecialMobs.GatlingSkeleton
+SpecialMobs.GhostSpider
+SpecialMobs.GiantPigZombie
+SpecialMobs.GiantSkeleton
+SpecialMobs.GiantSpider
+SpecialMobs.GiantZombie
+SpecialMobs.GrapeSlime
+SpecialMobs.GravelCreeper
+SpecialMobs.GravityCreeper
+SpecialMobs.HellfireBlaze
+SpecialMobs.HungryPigZombie
+SpecialMobs.HungrySpider
+SpecialMobs.HungryZombie
+SpecialMobs.IcyEnderman
+SpecialMobs.InfernoBlaze
+SpecialMobs.JoltBlaze
+SpecialMobs.JumpingCreeper
+SpecialMobs.KingGhast
+SpecialMobs.LemonSlime
+SpecialMobs.LightningCreeper
+SpecialMobs.LightningEnderman
+SpecialMobs.MiniCreeper
+SpecialMobs.MiniEnderman
+SpecialMobs.MiniGhast
+SpecialMobs.MirageEnderman
+SpecialMobs.MotherCaveSpider
+SpecialMobs.MotherSpider
+SpecialMobs.NinjaSkeleton
+SpecialMobs.PaleSpider
+SpecialMobs.PlaguePigZombie
+SpecialMobs.PlagueZombie
+SpecialMobs.PoisonSilverfish
+SpecialMobs.PoisonSkeleton
+SpecialMobs.PoisonSpider
+SpecialMobs.QueenGhast
+SpecialMobs.RageWitch
+SpecialMobs.SMFishHook
+SpecialMobs.SMSpitball
+SpecialMobs.ShadowsWitch
+SpecialMobs.SmallSpider
+SpecialMobs.SmolderBlaze
+SpecialMobs.SniperSkeleton
+SpecialMobs.SpecialBlaze
+SpecialMobs.SpecialCaveSpider
+SpecialMobs.SpecialCreeper
+SpecialMobs.SpecialEnderman
+SpecialMobs.SpecialGhast
+SpecialMobs.SpecialPigZombie
+SpecialMobs.SpecialSilverfish
+SpecialMobs.SpecialSkeleton
+SpecialMobs.SpecialSlime
+SpecialMobs.SpecialSpider
+SpecialMobs.SpecialWitch
+SpecialMobs.SpecialZombie
+SpecialMobs.SpitfireSkeleton
+SpecialMobs.SplittingCreeper
+SpecialMobs.StrawberrySlime
+SpecialMobs.ThiefEnderman
+SpecialMobs.ThiefSkeleton
+SpecialMobs.ToughCaveSpider
+SpecialMobs.ToughSilverfish
+SpecialMobs.ToughSpider
+SpecialMobs.UndeadWitch
+SpecialMobs.UnholyGhast
+SpecialMobs.VampirePigZombie
+SpecialMobs.WatermelonSlime
+SpecialMobs.WebCaveSpider
+SpecialMobs.WebSpider
+SpecialMobs.WildfireBlaze
+SpecialMobs.WildsWitch
+SpecialMobs.WindWitch
+SpecialMobs.WitchCaveSpider
+SpecialMobs.WitchSpider
+Spider
+SpiderBike
+Squid
+SquidBike
+TConstruct.Arrow
+TConstruct.Bolt
+TConstruct.Crystal
+TConstruct.Dagger
+TConstruct.EdibleSlime
+TConstruct.Fancy Item
+TConstruct.Javelin
+TConstruct.KingSlime
+TConstruct.LandmineFirework
+TConstruct.Launched Potion
+TConstruct.Shuriken
+TConstruct.SlimeExplosive
+TConstruct.ThrowingKnife
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+Villager
+VillagerGolem
+Witch
+WitherBike
+WitherBoss
+WitherSkull
+Wolf
+WolfBike
+XPOrb
+Zombie
+aether_legacy.aechor_plant
+aether_legacy.aerbunny
+aether_legacy.aerwhale
+aether_legacy.aether_item
+aether_legacy.cockatrice
+aether_legacy.crystal
+aether_legacy.enchanted_dart
+aether_legacy.fire_minion
+aether_legacy.floating_block
+aether_legacy.flying_cow
+aether_legacy.golden_dart
+aether_legacy.hammer_projectile
+aether_legacy.lightning_knife
+aether_legacy.mimic
+aether_legacy.mini_cloud
+aether_legacy.moa
+aether_legacy.parachute
+aether_legacy.phoenix_arrow
+aether_legacy.phyg
+aether_legacy.poison_dart
+aether_legacy.poison_needle
+aether_legacy.sentry
+aether_legacy.sheepuff
+aether_legacy.slider
+aether_legacy.sun_spirit
+aether_legacy.swet
+aether_legacy.tnt_present
+aether_legacy.valkyrie
+aether_legacy.valkyrie_queen
+aether_legacy.whirlwind
+aether_legacy.zephyr
+aether_legacy.zephyr_snowball
+creativecore.Sit
+doggytalents.attackbeam
+doggytalents.dog
+doggytalents.doggytalents:dog
+headcrumbs.Human
+jaff.FishClown
+jaff.FishCod
+jaff.FishPuffer
+jaff.FishSalmon
+jaff.IronFishHook
+lootplusplus.Label
+lootplusplus.ThrownItem
+paniclecraft.paintonblock
+weather2.Moving Block
+weather2.Weather Hail
+weather2.Weather2 Lightning Bolt
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+77 - EvolvedSpider
+78 - EvolvedZombie
+79 - EvolvedCreeper
+80 - EvolvedSkeleton
+81 - EvolvedSkeletonBoss
+82 - AlienVillager
+83 - Sludgeling
+84 - Slimeling
+85 - CreeperBoss
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+98 - Ozelot
+100 - EntityHorse
+120 - Villager
+7256 - MoCreatures.Bunny
+7257 - MoCreatures.Snake
+7258 - MoCreatures.Turtle
+7259 - MoCreatures.Bird
+7260 - MoCreatures.Mouse
+7261 - MoCreatures.Turkey
+7262 - MoCreatures.WildHorse
+7263 - MoCreatures.HorseMob
+7264 - MoCreatures.Ogre
+7265 - MoCreatures.Boar
+7266 - MoCreatures.Bear
+7267 - MoCreatures.Duck
+7268 - MoCreatures.BigCat
+7269 - MoCreatures.Deer
+7270 - MoCreatures.WWolf
+7271 - MoCreatures.Wraith
+7272 - MoCreatures.FlameWraith
+7273 - MoCreatures.Fox
+7274 - MoCreatures.Werewolf
+7275 - MoCreatures.Shark
+7276 - MoCreatures.Dolphin
+7277 - MoCreatures.Fishy
+7278 - MoCreatures.Kitty
+7281 - MoCreatures.Rat
+7282 - MoCreatures.HellRat
+7283 - MoCreatures.Scorpion
+7284 - MoCreatures.Crocodile
+7285 - MoCreatures.Ray
+7286 - MoCreatures.JellyFish
+7287 - MoCreatures.Goat
+7290 - MoCreatures.Ostrich
+7291 - MoCreatures.Bee
+7292 - MoCreatures.Fly
+7293 - MoCreatures.DragonFly
+7294 - MoCreatures.Firefly
+7295 - MoCreatures.Cricket
+7296 - MoCreatures.Snail
+7297 - MoCreatures.ButterFly
+7299 - MoCreatures.BigGolem
+7302 - MoCreatures.Elephant
+7303 - MoCreatures.KomodoDragon
+7304 - MoCreatures.Wyvern
+7305 - MoCreatures.Roach
+7306 - MoCreatures.Maggot
+7307 - MoCreatures.Crab
+7308 - MoCreatures.Raccoon
+7309 - MoCreatures.MiniGolem
+7310 - MoCreatures.SilverSkeleton
+7311 - MoCreatures.Ant
+7312 - MoCreatures.MediumFish
+7313 - MoCreatures.SmallFish
+7314 - MoCreatures.Piranha
+7315 - MoCreatures.Ent
+7316 - MoCreatures.Mole

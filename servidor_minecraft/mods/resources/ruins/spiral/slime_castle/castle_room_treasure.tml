@@ -1,0 +1,41 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=2,6,6
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,TConstruct:WoolSlab1-5
+rule2=0,100,TConstruct:decoration.multibrickfancy-10
+rule3=0,100,CommandBlock:summon LavaSlime ~ ~ ~ {Size:3,CustomName:\"\u00A76\u00A7lMagma Guard\"}:@
+rule4=0,100,preserveBlock
+rule5=0,100,ChestGenHook:spiralSlimeCastleTreasure:10-12
+rule6=0,100,lootplusplus:command_block_trigger-0
+
+layer
+0,0,0,0,0,0
+0,0,0,1,0,0
+0,0,1,2,1,0
+0,0,0,1,0,0
+0,3,0,0,0,0
+0,0,0,0,0,0
+endlayer
+
+layer
+0,4,0,0,4,0
+4,0,0,0,0,4
+0,0,0,5,0,0
+0,0,0,0,0,0
+4,6,0,0,0,4
+0,4,0,0,4,0
+endlayer
+

@@ -1,0 +1,56 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,7,7
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:lppsummon Zombie ~ ~ ~ {PersistenceRequired:true,Equipment:[{id:iron_sword,Count:1},{id:\"lootplusplus:spiral.dungeon_coin\",Count:6},{id:iron_leggings,Count:1},{id:iron_chestplate,Count:1},{id:iron_helmet,Count:1}],DropChances:[0.1f,2f,0.1f,0.1f,0.1f]}:@
+rule2=0,100,minecraft:stone_slab-0
+rule3=0,100,CommandBlock:lppsummon Skeleton ~ ~ ~ {PersistenceRequired:true,Equipment:[{id:bow,Count:1},{},{id:leather_leggings,Count:1},{id:\"lootplusplus:spiral.dungeon_coin\",Count:4},{},{id:golden_helmet,Count:1}],DropChances:[0.1f,0f,0.1f,2f,0.1f]}:@
+rule4=0,100,minecraft:double_stone_slab-0
+rule5=0,100,minecraft:glowstone-0
+rule6=0,100,CommandBlock:lppsummon Skeleton ~ ~ ~ {PersistenceRequired:true,Equipment:[{id:diamond_pickaxe,Count:1},{id:golden_boots,Count:1},{id:iron_leggings,Count:1},{id:chainmail_chestplate,Count:1},{id:\"lootplusplus:spiral.dungeon_coin\",Count:6}],DropChances:[0.1f,0.1f,0.1f,0.1f,2.0f]}:@
+rule7=0,100,CommandBlock:lppsummon Zombie ~ ~ ~ {PersistenceRequired:true,Equipment:[{id:iron_shovel,Count:1},{id:chainmail_boots,Count:1},{},{id:leather_chestplate,Count:1},{id:\"lootplusplus:spiral.dungeon_coin\",Count:4}],DropChances:[0.1f,0.1f,0f,0.1f,2f]}:@
+rule8=0,100,ChestGenHook:spiralDungeonTreasure:14-2
+rule9=0,100,lootplusplus:command_block_trigger-0
+
+layer
+0,0,0,0,0,0,0
+0,3,2,2,2,1,0
+0,2,2,4,2,2,0
+0,2,4,5,4,2,0
+0,2,2,4,2,2,0
+0,7,2,2,2,6,0
+0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,8,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,9,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+endlayer
+

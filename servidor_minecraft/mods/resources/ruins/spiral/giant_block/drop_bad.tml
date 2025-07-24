@@ -1,0 +1,32 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,1,1
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:setblock ~ ~ ~ lucky:lucky_block 0 replace {Drops:[0:\"group(type=difficulty,ID=hard;type=entity,ID=lootplusplus.Label,amount=#random-3-5,scatterOffset=0-3,reinitialize=true,NBTTag=(CustomName=\\\"#e#lMob Stack\\\",CustomNameVisible=true,Riding=(id=Ghast,CustomName=\\\"#e#lMob Stack Ghast\\\",Riding=(id=PigZombie,Equipment=[(id=golden_sword,Count=1)],CustomName=\\\"#e#lMob Stack Pigman\\\",Riding=(id=LavaSlime,CustomName=\\\"#e#lMob Stack Magma Cube\\\",Riding=(id=Blaze,CustomName=\\\"#e#lMob Stack Blaze\\\",Riding=(id=Skeleton,SkeletonType=1,Equipment=[(id=stone_sword,Count=1)],CustomName=\\\"#e#lMob Stack Wither Skelly\\\",Riding=(id=Slime,CustomName=\\\"#e#lMob Stack Slime\\\",Riding=(id=Witch,CustomName=\\\"#e#lMob Stack Witch\\\",Riding=(id=Enderman,CustomName=\\\"#e#lMob Stack Enderman\\\",Riding=(id=Zombie,CustomName=\\\"#e#lMob Stack Zombie\\\",Equipment=[(id=none),(id=none),(id=none),(id=none),(id=pumpkin)],Riding=(id=Skeleton,CustomName=\\\"#e#lMob Stack Skelly\\\",Equipment=[(id=bow,Count=1),(id=none),(id=none),(id=none),(id=pumpkin)],Riding=(id=Creeper,ExplosionRadius=1,CustomName=\\\"#e#lMob Stack Creep\\\",Riding=(id=CaveSpider,CustomName=\\\"#e#lMob Stack Cave Spider\\\",Riding=(id=Spider,CustomName=\\\"#e#lMob Stack Spider\\\",Riding=(id=Silverfish,CustomName=\\\"#e#lMob Stack Silverfish\\\",Riding=(id=Zombie,IsBaby=true,CustomName=\\\"#e#lMob Stack Baby\\\")))))))))))))))))\",1:\"type=entity,ID=launched_tnt,amount=35,scatterOffset=3-10,reinitialize=true\"]}:@
+rule2=0,100,lootplusplus:command_block_trigger-0
+rule3=0,100,CommandBlock:setblock ~ ~-1 ~ redstone_block:@
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+
+layer
+3
+endlayer
+

@@ -1,0 +1,8 @@
+[02:52:13][INFO][noppes.npcs.controllers.ScriptController:60] Thu Jul 24 02:52:13 UTC 2025
+[02:52:13][INFO][noppes.npcs.CustomNpcs:122] Script Engines Available:
+[02:52:24][INFO][noppes.npcs.CustomNpcs:201] Loading PlayerData...
+[02:52:24][INFO][noppes.npcs.CustomNpcs:201] Done loading PlayerData
+[02:52:24][INFO][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[02:52:24][INFO][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[02:52:24][INFO][noppes.npcs.controllers.AnimationController:31] Loading animations...
+[02:52:24][INFO][noppes.npcs.controllers.AnimationController:31] Done loading animations.
