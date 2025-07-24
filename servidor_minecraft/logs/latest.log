@@ -300,3 +300,92 @@
 [18:48:41] [Server thread/INFO]: [Sakuy_Ish: Set own game mode to Survival Mode]
 [18:49:16] [Server thread/INFO]: Sakuy_Ish lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [18:49:16] [Server thread/INFO]: Sakuy_Ish left the game
+[18:49:35] [Server thread/INFO]: Sakuy_Ish[/127.123.187.169:45171] logged in with entity id 6777 at (-30.829709198082895, 67.92915336010165, 329.3223963933984)
+[18:49:35] [Server thread/INFO]: Sakuy_Ish joined the game
+[18:49:59] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
+[18:50:03] [Server thread/INFO]: [P3lus1ta: Set own game mode to Survival Mode]
+[18:50:25] [Server thread/INFO]: [@: Game rule has been updated]
+[18:50:25] [Server thread/INFO]: [@: Teleported P3lus1ta to -9.5,64.5,365.5]
+[18:50:25] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to -4.5,64.5,365.5]
+[18:50:29] [Server thread/INFO]: [@: Block placed]
+[18:50:29] [Server thread/INFO]: [@: 15 blocks filled]
+[18:50:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7912ms behind, skipping 158 tick(s)
+[18:50:42] [Server thread/INFO]: [@: Block placed]
+[18:50:42] [Server thread/INFO]: [@: Block placed]
+[18:51:03] [Server thread/INFO]: [Sakuy_Ish: Teleported Sakuy_Ish to P3lus1ta]
+[18:51:26] [Server thread/INFO]: P3lus1ta was slain by Sakuy_Ish
+[18:52:12] [Server thread/INFO]: [@: Game rule has been updated]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to P3lus1ta]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to Sakuy_Ish]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to P3lus1ta]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to Sakuy_Ish]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to P3lus1ta]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.11' to Sakuy_Ish]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.ward' to P3lus1ta]
+[18:52:12] [Server thread/INFO]: [@: Played sound 'records.ward' to Sakuy_Ish]
+[18:54:04] [Server thread/INFO]: [@: Game rule has been updated]
+[18:54:04] [Server thread/INFO]: [@: Block placed]
+[18:54:04] [Server thread/INFO]: [@: Block placed]
+[18:54:04] [Server thread/INFO]: [@: Block placed]
+[18:54:04] [Server thread/INFO]: [@: Block placed]
+[18:54:05] [Server thread/INFO]: [@: Game rule has been updated]
+[18:54:05] [Server thread/INFO]: [@: Teleported Sakuy_Ish to -85.5,66.5,314.5]
+[18:54:05] [Server thread/INFO]: [Sakuy_Ish: Teleported Sakuy_Ish to -80.5,66.5,314.5]
+[18:54:18] [Server thread/INFO]: [@: Block placed]
+[18:54:18] [Server thread/INFO]: [@: 15 blocks filled]
+[18:54:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5602ms behind, skipping 112 tick(s)
+[18:54:28] [Server thread/INFO]: [@: Block placed]
+[18:54:28] [Server thread/INFO]: P3lus1ta was slain by §6§lMagma Stack
+[18:54:55] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[18:54:55] [Server thread/INFO]: [@: Given [§6Coin] * 1 to Sakuy_Ish]
+[18:55:02] [Server thread/INFO]: §aYour wish came true! (If you like cute little slimes)
+[18:55:06] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[18:55:06] [Server thread/INFO]: [@: Given [§6Coin] * 1 to P3lus1ta]
+[18:55:10] [Server thread/INFO]: [@: Game rule has been updated]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:10] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Game rule has been updated]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:18] [Server thread/INFO]: [@: Object successfully summoned]
+[18:55:20] [Server thread/INFO]: [@: 9 blocks filled]
+[18:55:33] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[18:55:33] [Server thread/INFO]: [@: Given [§6Coin] * 1 to P3lus1ta]
+[18:55:42] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[18:55:42] [Server thread/INFO]: [@: Given [§6Coin] * 1 to P3lus1ta]
+[18:56:14] [Server thread/INFO]: [P3lus1ta: Given [Diamond] * 64 to P3lus1ta]
+[18:56:42] [Server thread/INFO]: Sakuy_Ish was slain by §6§lMagma Stack
+[18:57:00] [Server thread/INFO]: [Sakuy_Ish: Given [Diamond] * 64 to Sakuy_Ish]
+[18:57:06] [Server thread/INFO]: [Sakuy_Ish: Teleported Sakuy_Ish to P3lus1ta]
+[18:57:21] [Server thread/INFO]: P3lus1ta was slain by Magma Cube
+[18:57:22] [Server thread/INFO]: Sakuy_Ish was slain by Magma Cube
+[18:59:03] [Server thread/INFO]: Sakuy_Ish was slain by §0§lGrim
