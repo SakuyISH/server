@@ -3732,3 +3732,25 @@ TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
 [17:28:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [17:29:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [17:29:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:30:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:31:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:32:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:32:20] [Server thread/INFO] [Galacticraft/]: Found matching world (-30) for name: planet.asteroids
+[17:32:20] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player Sakuy_Ish to dimension -30
+[17:32:30] [Server thread/INFO] [Galacticraft/]: Found matching world (-30) for name: planet.asteroids
+[17:32:30] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player P3lus1ta to dimension -30
+[17:32:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:33:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:34:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:35:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:35:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:36:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:37:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:37:52] [Server thread/INFO] [Galacticraft/]: Found matching world (0) for name: Overworld
+[17:37:52] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player Sakuy_Ish to dimension 0
+[17:38:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:38:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:39:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:40:17] [Server thread/INFO] [Galacticraft/]: Found matching world (0) for name: Overworld
+[17:40:17] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player P3lus1ta to dimension 0
+[17:40:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
