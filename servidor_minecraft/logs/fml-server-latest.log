@@ -3754,3 +3754,103 @@ TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
 [17:40:17] [Server thread/INFO] [Galacticraft/]: Found matching world (0) for name: Overworld
 [17:40:17] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player P3lus1ta to dimension 0
 [17:40:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:41:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:41:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:42:13] [Server thread/INFO] [Galacticraft/]: Found matching world (-28) for name: moon.moon
+[17:42:14] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player Sakuy_Ish to dimension -28
+[17:42:14] [Server thread/INFO] [Galacticraft/]: Found matching world (-28) for name: moon.moon
+[17:42:14] [Server thread/INFO] [Galacticraft/]: Server attempting to transfer player P3lus1ta to dimension -28
+[17:42:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:43:09] [Server thread/INFO] [FML/]: Generating Moon Village at x-320 z256
+[17:43:13] [Server thread/INFO] [FML/]: Generating Moon Village at x-160 z624
+[17:43:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:43:56] [sadris/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [sadris/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [sadris/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [sadris/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [sadris/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:43:56] [Pakratt0013/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [Pakratt0013/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [Pakratt0013/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [Pakratt0013/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [Pakratt0013/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:43:56] [sinkillerj/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [sinkillerj/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [sinkillerj/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [sinkillerj/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [sinkillerj/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:43:56] [Mr_okushama/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [Mr_okushama/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [Mr_okushama/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [Mr_okushama/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [Mr_okushama/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:43:56] [Mumbo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [Mumbo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [Mumbo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [Mumbo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [Mumbo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:43:56] [mDiyo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:43:56] [mDiyo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:43:56] [mDiyo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:43:56] [mDiyo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:43:56] [mDiyo/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:44:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:44:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:45:10] [amadornes/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [amadornes/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [amadornes/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [amadornes/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [amadornes/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [c4ts/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [c4ts/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [c4ts/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [c4ts/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [c4ts/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [direwolf20/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [direwolf20/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [direwolf20/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [direwolf20/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [direwolf20/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [amnet/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [amnet/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [amnet/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [amnet/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [amnet/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [deadmau5/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [deadmau5/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [deadmau5/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [deadmau5/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [deadmau5/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [ZexyZek/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [ZexyZek/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [ZexyZek/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [ZexyZek/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [ZexyZek/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [amir343/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [amir343/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [amir343/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [amir343/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [amir343/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [chicken_bones/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [chicken_bones/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [chicken_bones/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [chicken_bones/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [chicken_bones/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:10] [consolegrl/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:10] [consolegrl/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:10] [consolegrl/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:10] [consolegrl/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:10] [consolegrl/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:11] [Zoeya/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Name and ID cannot both be blank
+[17:45:11] [Zoeya/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:25)
+[17:45:11] [Zoeya/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:141)
+[17:45:11] [Zoeya/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ganymedes01.headcrumbs.network.packet.TextureRequestPacket$1.run(TextureRequestPacket.java:54)
+[17:45:11] [Zoeya/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:750)
+[17:45:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:46:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:47:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:47:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:48:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:49:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:50:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:50:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
