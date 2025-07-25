@@ -191,3 +191,9 @@
 [03:49:31] [Server thread/INFO]: <P3lus1ta> amor, sabias q habia una wea llamada secret settings?
 [04:04:48] [Server thread/WARN]: Fetching addPacket for removed entity
 [04:05:32] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
+[05:27:45] [Server thread/INFO]: <Sakuy_Ish> mensaaa
+[05:28:03] [Server thread/INFO]: <Sakuy_Ish> me diot tuito
+[05:28:46] [Server thread/INFO]: Sakuy_Ish lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[05:28:46] [Server thread/INFO]: Sakuy_Ish left the game
+[05:32:32] [Server thread/INFO]: P3lus1ta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[05:32:32] [Server thread/INFO]: P3lus1ta left the game
