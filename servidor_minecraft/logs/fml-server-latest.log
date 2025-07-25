@@ -3219,3 +3219,68 @@ TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
 [04:01:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [04:02:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [04:03:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:04:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:04:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:05:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:06:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:07:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:07:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/milecrack
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.block.instant.BlockInstantStatue.get_contents(BlockInstantStatue.java:189)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.block.instant.BlockInstantStatue.getSkin(BlockInstantStatue.java:132)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.block.instant.BlockInstantStatue.build(BlockInstantStatue.java:164)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketStatue.handleServerSide(PacketStatue.java:75)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketPipeline.decode(PacketPipeline.java:106)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketPipeline.decode(PacketPipeline.java:30)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:89)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.NullPointerException
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.block.instant.BlockInstantStatue.getSkin(BlockInstantStatue.java:134)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.block.instant.BlockInstantStatue.build(BlockInstantStatue.java:164)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketStatue.handleServerSide(PacketStatue.java:75)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketPipeline.decode(PacketPipeline.java:106)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.slymask3.instantblocks.network.PacketPipeline.decode(PacketPipeline.java:30)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:89)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[04:08:20] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[04:08:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:09:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:10:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:10:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:11:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:12:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
