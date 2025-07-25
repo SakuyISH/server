@@ -360,6 +360,31 @@ jaff.FishSalmon
 jaff.IronFishHook
 lootplusplus.Label
 lootplusplus.ThrownItem
+mcheli.MCH.E.A10
+mcheli.MCH.E.AAM
+mcheli.MCH.E.ASM
+mcheli.MCH.E.ATMissle
+mcheli.MCH.E.Bomb
+mcheli.MCH.E.Bullet
+mcheli.MCH.E.Chain
+mcheli.MCH.E.Container
+mcheli.MCH.E.DispItem
+mcheli.MCH.E.Flare
+mcheli.MCH.E.GLTD
+mcheli.MCH.E.Heli
+mcheli.MCH.E.Hide
+mcheli.MCH.E.MkRocket
+mcheli.MCH.E.PSeat
+mcheli.MCH.E.Parachute
+mcheli.MCH.E.Plane
+mcheli.MCH.E.Rocket
+mcheli.MCH.E.Seat
+mcheli.MCH.E.Tank
+mcheli.MCH.E.Throwable
+mcheli.MCH.E.Torpedo
+mcheli.MCH.E.TvMissle
+mcheli.MCH.E.UavStation
+mcheli.MCH.E.Vehicle
 paniclecraft.paintonblock
 weather2.Moving Block
 weather2.Weather Hail
