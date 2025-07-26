@@ -1,199 +1,38 @@
-[02:23:15] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[02:23:21] [Server thread/INFO]: Loading properties
-[02:23:21] [Server thread/INFO]: Default game type: SURVIVAL
-[02:23:21] [Server thread/INFO]: Generating keypair
-[02:23:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:23:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:23:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:23:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:23:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:23:22] [Server thread/INFO]: Preparing level "world"
-[02:23:27] [Server thread/INFO]: Preparing start region for level 0
-[02:23:28] [Server thread/INFO]: Done (5.734s)! For help, type "help" or "?"
-[02:26:23] [Server thread/INFO]: Sakuy_Ish[/127.249.136.196:43413] logged in with entity id 2745 at (-158.48122857605352, 75.0, 1.1079470176919135)
-[02:26:23] [Server thread/INFO]: Sakuy_Ish joined the game
-[02:28:34] [Server thread/INFO]: Opped Sakuy_Ish
-[02:28:40] [Server thread/INFO]: [Sakuy_Ish: Set own game mode to Creative Mode]
-[02:29:16] [Server thread/INFO]: P3lus1ta[/127.248.35.86:43925] logged in with entity id 5848 at (-242.5, 64.0, 23.5)
-[02:29:16] [Server thread/INFO]: P3lus1ta joined the game
-[02:29:25] [Server thread/INFO]: <Sakuy_Ish> waaaaaaaaa
-[02:29:33] [Server thread/INFO]: [Sakuy_Ish: Teleported Sakuy_Ish to P3lus1ta]
-[02:29:43] [Server thread/INFO]: <Sakuy_Ish> te va bien
-[02:30:20] [Server thread/INFO]: Sakuy_Ish has just earned the achievement [Learning to Tinker]
-[02:30:24] [Server thread/INFO]: Sakuy_Ish has just earned the achievement [Taking Inventory]
-[02:30:40] [Server thread/INFO]: <Sakuy_Ish> como se hace
-[02:30:47] [Server thread/INFO]: <Sakuy_Ish> enseñame
-[02:31:41] [Server thread/INFO]: [Sakuy_Ish: Opped P3lus1ta]
-[02:32:07] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Creative Mode]
-[02:32:50] [Server thread/INFO]: <Sakuy_Ish> yapooooo
-[02:34:00] [Server thread/INFO]: Sakuy_Ish lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:34:00] [Server thread/INFO]: Sakuy_Ish left the game
-[02:35:21] [Server thread/INFO]: Sakuy_Ish[/127.249.136.196:57061] logged in with entity id 8436 at (-249.12709800851673, 65.0, 29.421442482396287)
-[02:35:21] [Server thread/INFO]: Sakuy_Ish joined the game
-[02:35:32] [Server thread/INFO]: <Sakuy_Ish> lito
-[02:37:37] [Server thread/INFO]: <Sakuy_Ish> MENSAAA
-[02:37:43] [Server thread/INFO]: <Sakuy_Ish> CARGO LOS HELICOPTEROS
-[02:38:02] [Server thread/INFO]: P3lus1ta has just earned the achievement [Learning to Tinker]
-[02:38:08] [Server thread/INFO]: <P3lus1ta> LITOOOO
-[02:38:19] [Server thread/INFO]: <Sakuy_Ish> AAAAAAAAA
-[02:38:24] [Server thread/INFO]: <Sakuy_Ish> Y
-[02:38:25] [Server thread/INFO]: P3lus1ta has just earned the achievement [Taking Inventory]
-[02:38:38] [Server thread/INFO]: <Sakuy_Ish> AAAAAA
-[02:38:48] [Server thread/INFO]: <Sakuy_Ish> yaaaaaaaaaa
-[02:38:49] [Server thread/INFO]: <P3lus1ta> una ratita
-[02:38:51] [Server thread/INFO]: <P3lus1ta> muak
-[02:38:57] [Server thread/INFO]: <Sakuy_Ish> VAMO
-[02:39:13] [Server thread/INFO]: <P3lus1ta> te guto mi arte?
-[02:39:18] [Server thread/INFO]: <Sakuy_Ish> vistamonos como astronautas amor
-[02:39:19] [Server thread/INFO]: <P3lus1ta> AJJAAJJAJAJAJA
-[02:39:21] [Server thread/INFO]: <Sakuy_Ish> shii
-[02:39:29] [Server thread/INFO]: <P3lus1ta> CMO NOS VESTIMO ASII??
-[02:39:41] [Server thread/INFO]: <Sakuy_Ish> el mod tiene como armaduras
-[02:39:44] [Server thread/INFO]: <Sakuy_Ish> ponte una
-[02:41:04] [Server thread/INFO]: <Sakuy_Ish> sca el casco
-[02:41:42] [Server thread/INFO]: <Sakuy_Ish> ponte estas
-[02:41:50] [Server thread/INFO]: <Sakuy_Ish> gafas sensora
-[02:42:30] [Server thread/INFO]: <Sakuy_Ish> tornado che
-[02:42:43] [Server thread/INFO]: <P3lus1ta> te va a llevar
-[02:43:01] [Server thread/INFO]: <Sakuy_Ish> diablo
-[02:43:06] [Server thread/INFO]: [Sakuy_Ish: Changing to rain and thunder]
-[02:43:13] [Server thread/INFO]: <P3lus1ta> hay latas de comida en el mod
-[02:43:15] [Server thread/INFO]: <P3lus1ta> AJSJHSAHSJH
-[02:43:39] [Server thread/INFO]: [Sakuy_Ish: Set the time to 13000]
-[02:43:50] [Server thread/INFO]: [Sakuy_Ish: Changing to rain and thunder]
-[02:46:02] [Server thread/INFO]: <Sakuy_Ish> decora
-[02:47:03] [Server thread/INFO]: <P3lus1ta> cn lucky
-[02:47:25] [Server thread/INFO]: <Sakuy_Ish> te guta
-[02:47:37] [Server thread/INFO]: <Sakuy_Ish> te va fluido?
-[02:47:44] [Server thread/INFO]: <P3lus1ta> SHIII
-[02:47:46] [Server thread/INFO]: <Sakuy_Ish> sin lag????
-[02:47:53] [Server thread/INFO]: <Sakuy_Ish> tremendooo
-[02:47:55] [Server thread/INFO]: <P3lus1ta> siamor
-[02:47:58] [Server thread/INFO]: <P3lus1ta> te amo
-[02:47:58] [Server thread/INFO]: <Sakuy_Ish> sabes porque??
-[02:48:06] [Server thread/INFO]: <P3lus1ta> po quee?
-[02:48:12] [Server thread/INFO]: <Sakuy_Ish> es como el universocraft con pocos jugadores
-[02:48:18] [Server thread/INFO]: <Sakuy_Ish> mas rapido
-[02:48:21] [Server thread/INFO]: <Sakuy_Ish> somo 2
-[02:48:27] [Server thread/INFO]: <P3lus1ta> :3
-[02:48:40] [Server thread/INFO]: <Sakuy_Ish> decora
-[02:48:44] [Server thread/INFO]: <Sakuy_Ish> 4 gb
-[02:48:51] [Server thread/INFO]: <Sakuy_Ish> cpu*
-[02:49:00] [Server thread/INFO]: <Sakuy_Ish> 12ram
-[02:49:46] [Server thread/INFO]: <Sakuy_Ish> oye el hud si lo tienes chico agrandalo
-[02:49:55] [Server thread/INFO]: <Sakuy_Ish> antes se usaba asi para ver las texturas
-[02:51:16] [Server thread/INFO]: <Sakuy_Ish> QUE
-[02:51:22] [Server thread/INFO]: <P3lus1ta> diamantitooo
-[02:53:37] [Server thread/INFO]: <Sakuy_Ish> no s e
-[02:53:37] [Server thread/INFO]: <Sakuy_Ish> no s e
-[02:53:40] [Server thread/INFO]: P3lus1ta has just earned the achievement [Welcome to MC Helicopter MOD]
-[02:53:42] [Server thread/INFO]: <Sakuy_Ish> nose ve mal
-[02:53:49] [Server thread/INFO]: <Sakuy_Ish> AAAAAAAA
-[02:53:58] [Server thread/INFO]: Sakuy_Ish has just earned the achievement [Getting Wood]
-[02:54:04] [Server thread/INFO]: P3lus1ta has just earned the achievement [Getting Wood]
-[02:54:17] [Server thread/INFO]: <P3lus1ta> amor ontas
-[02:54:18] [Server thread/INFO]: <Sakuy_Ish> aaaaaaaaaaaaaaaaaa
-[02:54:19] [Server thread/INFO]: <P3lus1ta> JAJAJAJAJAJA
-[02:54:32] [Server thread/INFO]: <P3lus1ta> WTF UNA AVISPA
-[02:54:36] [Server thread/INFO]: <Sakuy_Ish> COMO LO VISTEEE
-[02:54:46] [Server thread/INFO]: <P3lus1ta> taba por ahii
-[02:54:51] [Server thread/INFO]: <P3lus1ta> AJAAJSJHASJAH
-[02:55:01] [Server thread/INFO]: <P3lus1ta> en la 3ra pagina
-[02:56:16] [Server thread/INFO]: <Sakuy_Ish> VENNNN
-[02:56:48] [Server thread/INFO]: Sakuy_Ish has just earned the achievement [Welcome to MC Helicopter MOD]
-[02:58:07] [Server thread/INFO]: <P3lus1ta> ontas
-[02:58:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7402ms behind, skipping 148 tick(s)
-[02:58:49] [Server thread/INFO]: Sakuy_Ish fell out of the world
-[02:58:53] [Server thread/INFO]: <P3lus1ta> que
-[03:00:44] [Server thread/INFO]: <Sakuy_Ish> aaaaaaaaaaa
-[03:00:45] [Server thread/INFO]: <P3lus1ta> coloca keep inventory
-[03:03:54] [Server thread/INFO]: <P3lus1ta> JSJAJAJAJJAJA
-[03:04:30] [Server thread/INFO]: <P3lus1ta> mira
-[03:04:40] [Server thread/INFO]: <Sakuy_Ish> yaaaaaaaaaa
-[03:05:20] [Server thread/INFO]: <Sakuy_Ish> va fluido?
-[03:05:29] [Server thread/INFO]: <P3lus1ta> shiii:3
-[03:05:33] [Server thread/INFO]: <Sakuy_Ish> waaaaaaaaa
-[03:07:18] [Server thread/INFO]: <P3lus1ta> yaaa
-[03:07:24] [Server thread/INFO]: <Sakuy_Ish> waaaaaaaa
-[03:07:31] [Server thread/INFO]: <Sakuy_Ish> e ma bonita
-[03:07:45] [Server thread/INFO]: <P3lus1ta> queate cn la pony po
-[03:08:08] [Server thread/INFO]: <Sakuy_Ish> waaaaa
-[03:08:21] [Server thread/INFO]: <Sakuy_Ish> el tuyo hace eso?
-[03:08:27] [Server thread/INFO]: <P3lus1ta> >:C
-[03:08:50] [Server thread/INFO]: <Sakuy_Ish> yiiiaaa
-[03:08:55] [Server thread/INFO]: <Sakuy_Ish> q pulento el miopo
-[03:09:11] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:09:35] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:09:38] [Server thread/INFO]: <P3lus1ta> menso
-[03:09:39] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:09:41] [Server thread/INFO]: <P3lus1ta> es de noche
-[03:09:44] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:10:03] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:10:08] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:10:11] [Server thread/INFO]: <P3lus1ta> YAPO
-[03:10:14] [Server thread/INFO]: <Sakuy_Ish> muak
-[03:10:28] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:10:37] [Server thread/INFO]: [Sakuy_Ish: Teleported Sakuy_Ish to P3lus1ta]
-[03:10:51] [Server thread/INFO]: [Sakuy_Ish: Teleported P3lus1ta to Sakuy_Ish]
-[03:10:56] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:05] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:11] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:13] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:16] [Server thread/INFO]: <P3lus1ta> YAPO
-[03:11:18] [Server thread/INFO]: <P3lus1ta> YAPO
-[03:11:20] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:23] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:27] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:29] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:32] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:34] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:39] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:40] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:44] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:45] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:11:48] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:11:51] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:12:00] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:12:08] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:12:14] [Server thread/INFO]: P3lus1ta was slain by Sakuy_Ish using [§fBane of Pigs]
-[03:12:19] [Server thread/INFO]: <P3lus1ta> YAAA PESAO
-[03:12:25] [Server thread/INFO]: <Sakuy_Ish> te amooo
-[03:12:33] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
-[03:12:36] [Server thread/INFO]: P3lus1ta was slain by Sakuy_Ish using [§fBane of Pigs]
-[03:12:43] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
-[03:12:46] [Server thread/INFO]: P3lus1ta was slain by Sakuy_Ish using [§fBane of Pigs]
-[03:12:50] [Server thread/INFO]: P3lus1ta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:12:50] [Server thread/INFO]: P3lus1ta left the game
-[03:13:01] [Server thread/INFO]: P3lus1ta[/127.248.35.86:42189] logged in with entity id 45562 at (-246.5, 65.0, 24.5)
-[03:13:01] [Server thread/INFO]: P3lus1ta joined the game
-[03:13:01] [Server thread/WARN]: Fetching addPacket for removed entity
-[03:13:45] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
-[03:14:18] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:14:58] [Server thread/INFO]: <Sakuy_Ish> pone la musica en 20
-[03:15:12] [Server thread/INFO]: <P3lus1ta> litoo
-[03:15:38] [Server thread/INFO]: [Sakuy_Ish: Teleported P3lus1ta to Sakuy_Ish]
-[03:15:43] [Server thread/INFO]: [Sakuy_Ish: Set P3lus1ta's game mode to Survival Mode]
-[03:15:49] [Server thread/INFO]: <P3lus1ta> yaaa
-[03:15:56] [Server thread/INFO]: <Sakuy_Ish> muak
-[03:15:56] [Server thread/INFO]: [P3lus1ta: Set own game mode to Creative Mode]
-[03:17:21] [Server thread/INFO]: <P3lus1ta> tu pony tiene los ojos rojos
-[03:19:30] [Server thread/INFO]: <Sakuy_Ish> y tu poni
-[03:19:52] [Server thread/INFO]: <P3lus1ta> por ahii
-[03:19:54] [Server thread/INFO]: <P3lus1ta> MIRA
-[03:23:17] [Server thread/INFO]: <P3lus1ta> MIRAAAA
-[03:23:54] [Server thread/INFO]: <Sakuy_Ish> q
-[03:24:45] [Server thread/INFO]: <Sakuy_Ish> mensa tengo que hacer algo
-[03:24:48] [Server thread/INFO]: <Sakuy_Ish> perame
-[03:24:53] [Server thread/INFO]: <Sakuy_Ish> decora o nuse
-[03:24:57] [Server thread/INFO]: <Sakuy_Ish> dejo prendio
-[03:25:00] [Server thread/INFO]: <P3lus1ta> okiii:33
-[03:32:46] [Server thread/INFO]: <P3lus1ta> WAAA YA VI CMO CONFIGURAR EL SPACE RACE
-[03:49:31] [Server thread/INFO]: <P3lus1ta> amor, sabias q habia una wea llamada secret settings?
-[04:04:48] [Server thread/WARN]: Fetching addPacket for removed entity
-[04:05:32] [Server thread/INFO]: [P3lus1ta: Teleported P3lus1ta to Sakuy_Ish]
-[05:27:45] [Server thread/INFO]: <Sakuy_Ish> mensaaa
-[05:28:03] [Server thread/INFO]: <Sakuy_Ish> me diot tuito
-[05:28:46] [Server thread/INFO]: Sakuy_Ish lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[05:28:46] [Server thread/INFO]: Sakuy_Ish left the game
-[05:32:32] [Server thread/INFO]: P3lus1ta lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[05:32:32] [Server thread/INFO]: P3lus1ta left the game
+[02:47:39] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[02:47:46] [Server thread/INFO]: Loading properties
+[02:47:46] [Server thread/INFO]: Default game type: SURVIVAL
+[02:47:46] [Server thread/INFO]: Generating keypair
+[02:47:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:47:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:47:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:47:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:47:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:47:47] [Server thread/INFO]: Preparing level "world"
+[02:47:52] [Server thread/INFO]: Preparing start region for level 0
+[02:47:53] [Server thread/INFO]: Done (5.409s)! For help, type "help" or "?"
+[02:48:00] [Server thread/INFO]: Sakuy_Ish[/127.249.136.196:56535] logged in with entity id 2823 at (-285.2789066656691, 71.0, 16.083540285405586)
+[02:48:00] [Server thread/INFO]: Sakuy_Ish joined the game
+[02:49:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2211ms behind, skipping 44 tick(s)
+[02:50:34] [Server thread/INFO]: P3lus1ta[/127.253.131.151:52051] logged in with entity id 6337 at (-281.41038835593145, 71.0, 16.38252311753891)
+[02:50:34] [Server thread/INFO]: P3lus1ta joined the game
+[02:50:34] [Server thread/WARN]: Fetching addPacket for removed entity
+[02:50:50] [Server thread/INFO]: <Sakuy_Ish> fotoo
+[02:50:52] [Server thread/INFO]: <P3lus1ta> miraa
+[02:50:57] [Server thread/INFO]: <P3lus1ta> le puse coloresss
+[02:51:10] [Server thread/INFO]: <Sakuy_Ish> mubienn
+[02:51:19] [Server thread/INFO]: <Sakuy_Ish> fotoo
+[02:52:48] [Server thread/INFO]: <P3lus1ta> MIRAAA
+[02:53:08] [Server thread/INFO]: <Sakuy_Ish> q comando
+[02:53:22] [Server thread/INFO]: <P3lus1ta> sentarse frente a eta cosa
+[02:53:34] [Server thread/INFO]: <Sakuy_Ish> foto
+[02:54:21] [Server thread/INFO]: <Sakuy_Ish> q se vea la ban
+[02:55:03] [Server thread/INFO]: <Sakuy_Ish> ushhh
+[02:55:15] [Server thread/INFO]: <Sakuy_Ish> nooo
+[02:55:42] [Server thread/INFO]: <Sakuy_Ish> lito
+[02:55:59] [Server thread/INFO]: <Sakuy_Ish> vamooo
+[02:56:16] [Server thread/INFO]: <Sakuy_Ish> dale
+[02:56:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
+[02:56:37] [Server thread/INFO]: <Sakuy_Ish> a la luna
+[02:56:41] [Server thread/WARN]: Wrong location! MoCEntityWerewolf['Werewolf'/16280, l='world', x=-272.02, y=69.66, z=-0.02] (at -18, -1 instead of -17, 0)
+[02:56:45] [Server thread/INFO]: <P3lus1ta> okiii:3
+[02:56:50] [Server thread/INFO]: <P3lus1ta> vamo casi iwales
