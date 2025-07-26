@@ -105,6 +105,13 @@ MoCreatures:turtlesoup
 	- Saturation Amount: 0.6
 
 
+OpenBlocks:tastyClay
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
 TConstruct:MeatBlock
 	- Megadata: 0
 	- Food or Drink? Food

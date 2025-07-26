@@ -224,3 +224,24 @@
 	- Max Level: 1
 
 
+211
+	- Name: enchantment.openblocks.explosive
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 3
+
+
+212
+	- Name: enchantment.openblocks.laststand
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 2
+
+
+213
+	- Name: enchantment.openblocks.flimflam
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 4
+
+

@@ -1,0 +1,27 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=2,1,1
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:setblock ~ ~ ~ lootplusplus:command_trigger_block 0 replace {CommandList:[0:\"lppfill ~-4 ~1 ~-4 ~3 ~1 ~3 air 0 replace redstone_wire\",1:\"testruin spiral/giant_block/block_break_1 ~ ~ ~\",2:\"testruin spiral/giant_block/block_break_2 ~ ~ ~\",3:\"testruin spiral/giant_block/block_break_3 ~ ~ ~\",4:\"testruin spiral/giant_block/block_break_4 ~ ~ ~\",5:\"testruin spiral/giant_block/block_break_5 ~ ~ ~\",6:\"testruin spiral/giant_block/drop_good ~ ~1 ~\",7:\"testruin spiral/giant_block/giant_block_remove ~ ~ ~\"],Delays:[0,1,10,20,30,40,50,55]}:@
+rule2=0,100,lootplusplus:command_block_trigger-0
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+

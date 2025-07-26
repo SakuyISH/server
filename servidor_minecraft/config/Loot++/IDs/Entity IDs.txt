@@ -156,6 +156,17 @@ MutantCreatures.ZombieMinion
 NotchBike
 OcelotBike
 OcelotBikeChild
+OpenBlocks.Cartographer
+OpenBlocks.EntityItemProjectile
+OpenBlocks.GoldenEye
+OpenBlocks.Hang Glider
+OpenBlocks.Luggage
+OpenBlocks.Magnet
+OpenBlocks.MiniMe
+OpenBlocks.MountedBlock
+OpenBlocks.Player-Magnet
+OpenBlocks.XPOrbNoFly
+OpenMods.Block
 Ozelot
 Painting
 Pig

@@ -1,0 +1,27 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=2,1,1
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:setblock ~ ~ ~ lucky:lucky_block 0 replace {Drops:[0:\"group(type=difficulty,ID=hard;type=command,ID=\\\"/gamerule commandBlockOutput false\\\";type=command,ID=\\\"/playsound records.11 @a ~ ~ ~ 0.0001 2.0\\\";type=command,delay=0.5,ID=\\\"/playsound records.11 @a ~ ~ ~ 0.0001 2.0\\\";type=command,delay=1,ID=\\\"/playsound records.11 @a ~ ~ ~ 0.0001 2.0\\\";type=command,delay=1.5,ID=\\\"/playsound records.chirp @a ~ ~ ~ 2.0 2.0\\\";type=entity,ID=Skeleton,NBTTag=(CustomName=\\\"#e#lAzkor the Questionable\\\",CustomNameVisible=true,SkeletonType=1,Attributes=[(Name=generic.maxHealth,Base=500f)],Equipment=[(id=blaze_rod,Count=1,tag=(display=(Name=\\\"#e#lAzkor's Fiery Whacking Stick\\\"),ench=[(id=17,lvl=5),(id=19,lvl=5),(id=20,lvl=5)],AttributeModifiers=[(AttributeName=generic.attackDamage,Name=\\\"damage\\\",Amount=12,Operation=0,UUIDLeast=1,UUIDMost=1)])),(id=leather_boots,Count=1,Damage=0,tag=(Unbreakable=true,display=(color=#random-0-16777215,Name=\\\"#e#lAzkor's Boots\\\"),ench=[(id=7,lvl=10)])),(id=leather_leggings,Count=1,Damage=0,tag=(Unbreakable=true,display=(color=#random-0-16777215,Name=\\\"#e#lAzkor's Pants\\\"),ench=[(id=7,lvl=10)])),(id=leather_chestplate,Count=1,Damage=0,tag=(Unbreakable=true,display=(color=#random-0-16777215,Name=\\\"#e#lAzkor's Chestplate\\\"),ench=[(id=7,lvl=10)])),(id=\\\"lucky:lucky_block\\\",Count=1,tag=(display=(Name=\\\"#e#lAzkor's Treasure Storage\\\"),Drops=[\\\"ID=lootplusplus:loot_chest,amount=2,NBTTag=(Type=spiralAzkorTreasure)\\\"],Luck=100))],DropChances=[2f,2f,2f,2f,2f]))\"]}:@
+rule2=0,100,lootplusplus:command_block_trigger-0
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+

@@ -1,0 +1,27 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=2,1,1
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,CommandBlock:setblock ~ ~ ~ lucky:lucky_block 0 replace {Drops:[0:\"group(type=command,ID=\\\"lppfill ~-5 ~ ~-5 ~5 ~2 ~5 air 0 replace TConstruct:SpeedBlock 0\\\";type=command,ID=\\\"lppfill ~-5 ~ ~-5 ~5 ~2 ~5 air 0 replace TConstruct:SpeedBlock 2\\\";type=command,ID=\\\"testruin spiral/dungeon/dungeon_room_merchants ~ ~ ~\\\";type=entity,ID=Villager,posX=#bPosX+3,posZ=#bPosZ+3,NBTTag=(Offers=(Recipes=[(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-5-8),sell=(id=iron_ingot,Count=1),maxUses=1000),(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-8-12),sell=(id=gold_ingot,Count=1),maxUses=1000)]),CustomName=\\\"#8#lDungeon Merchant\\\",CustomNameVisible=true);type=entity,ID=Villager,posX=#bPosX-3,posZ=#bPosZ+3,NBTTag=(Offers=(Recipes=[(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-32-48),sell=(id=diamond,Count=1),maxUses=1000),(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-32-48),sell=(id=emerald,Count=1),maxUses=1000)]),CustomName=\\\"#8#lDungeon Merchant\\\",CustomNameVisible=true);type=entity,ID=Villager,posX=#bPosX+3,posZ=#bPosZ-3,NBTTag=(Offers=(Recipes=[(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-40-50),sell=(id=golden_apple,Count=1),maxUses=1000),(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-50-60),sell=(id=TConstruct:diamondApple,Count=1),maxUses=1000)]),CustomName=\\\"#8#lDungeon Merchant\\\",CustomNameVisible=true);type=entity,ID=Villager,posX=#bPosX-3,posZ=#bPosZ-3,NBTTag=(Offers=(Recipes=[(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-20-30),sell=(id=potion,Damage=8257,Count=1),maxUses=1000),(buy=(id=lootplusplus:spiral.dungeon_coin,Count=#random-30-40),sell=(id=potion,Damage=8259,Count=1),maxUses=1000)]),CustomName=\\\"#8#lDungeon Merchant\\\",CustomNameVisible=true))\"]}:@
+rule2=0,100,lootplusplus:command_block_trigger-0
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+

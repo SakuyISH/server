@@ -1,0 +1,83 @@
+
+# Created by Ruins mod version 15.1 Ingame Parser
+# authoring Player: Tmtravlr
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=5,7,7
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+max_cut_in=0
+allowable_overhang=0
+
+rule1=0,100,TConstruct:decoration.multibrickmetal-2
+rule2=0,100,TConstruct:decoration.multibrick-7
+rule3=0,100,TConstruct:GlassBlock.StainedClear-9
+rule4=0,100,minecraft:water-0
+rule5=0,100,CommandBlock:summon jaff.FishSalmon:@
+rule6=0,100,minecraft:ladder-3
+rule7=0,100,minecraft:sponge-0
+rule8=0,100,CommandBlock:summon jaff.FishCod:@
+rule9=0,100,minecraft:wooden_door-1
+rule10=0,100,CommandBlock:summon jaff.FishPuffer:@
+rule11=0,100,CommandBlock:summon jaff.FishClown:@
+rule12=0,100,TConstruct:GlassBlock.StainedClear-11
+rule13=0,100,minecraft:wooden_door-9
+rule14=0,100,minecraft:stone_slab-8
+rule15=0,100,lootplusplus:command_block_trigger-0
+rule16=0,100,CommandBlock:testruin spiral/tower/tower_next_room ~ ~ ~:@
+
+layer
+0,0,1,2,1,0,0
+0,3,4,5,4,3,0
+1,4,4,4,4,4,1
+9,8,4,7,4,6,2
+1,4,4,4,10,4,1
+0,3,4,11,4,3,0
+0,0,1,2,1,0,0
+endlayer
+
+layer
+0,0,2,12,2,0,0
+0,12,4,5,4,12,0
+2,4,4,4,4,4,2
+13,8,4,4,4,6,1
+2,4,4,4,10,4,2
+0,12,4,11,4,12,0
+0,0,2,12,2,0,0
+endlayer
+
+layer
+0,0,1,3,1,0,0
+0,3,4,4,4,3,0
+1,4,4,4,4,4,1
+2,4,4,4,4,6,2
+1,4,4,4,4,4,1
+0,3,4,4,4,3,0
+0,0,1,3,1,0,0
+endlayer
+
+layer
+0,0,2,1,2,0,0
+0,12,14,14,14,12,0
+2,14,14,14,14,14,2
+1,14,14,14,14,6,1
+2,14,14,14,14,14,2
+0,12,14,14,14,12,0
+0,0,2,1,2,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,15,0,0,0
+0,0,0,16,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0
+endlayer
+
