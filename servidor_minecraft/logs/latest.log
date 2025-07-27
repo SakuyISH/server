@@ -1,12 +1,35 @@
-[23:14:24] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[23:14:31] [Server thread/INFO]: Loading properties
-[23:14:31] [Server thread/INFO]: Default game type: SURVIVAL
-[23:14:31] [Server thread/INFO]: Generating keypair
-[23:14:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:14:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:14:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:14:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:14:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:14:32] [Server thread/INFO]: Preparing level "world"
-[23:14:38] [Server thread/INFO]: Preparing start region for level 0
-[23:14:38] [Server thread/INFO]: Done (6.063s)! For help, type "help" or "?"
+[00:45:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:45:08] [Server thread/INFO]: Loading properties
+[00:45:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:45:08] [Server thread/INFO]: Generating keypair
+[00:45:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:45:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:10] [Server thread/INFO]: Preparing level "world"
+[00:45:15] [Server thread/INFO]: Preparing start region for level 0
+[00:45:16] [Server thread/INFO]: Done (5.555s)! For help, type "help" or "?"
+[00:45:34] [Server thread/INFO]: P3lus1ta lost connection: TextComponent{text='Mod rejections [FMLMod:mcheli{1.0.3}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:45:34] [Server thread/INFO]: P3lus1ta left the game
+[00:45:52] [Server thread/INFO]: Sakuy_Ish[/127.249.136.196:44685] logged in with entity id 2668 at (1289.431197073175, 39.0, -1074.3757936891623)
+[00:45:52] [Server thread/INFO]: Sakuy_Ish joined the game
+[00:46:16] [Server thread/INFO]: Sakuy_Ish fell out of the world
+[00:46:18] [Server thread/INFO]: Sakuy_Ish lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:46:18] [Server thread/INFO]: Sakuy_Ish left the game
+[00:46:19] [Server thread/INFO]: Sakuy_Ish lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:46:19] [Server thread/INFO]: Sakuy_Ish left the game
+[00:52:23] [Server thread/INFO]: P3lus1ta[/127.216.14.224:41573] logged in with entity id 6981 at (1339.9116355349327, 7.111860461141909, -989.9293191374364)
+[00:52:23] [Server thread/INFO]: P3lus1ta joined the game
+[00:52:32] [Server thread/INFO]: <Sakuy_Ish> viste que era eos
+[00:52:35] [Server thread/INFO]: <Sakuy_Ish> aprendiste?
+[00:52:45] [Server thread/INFO]: <P3lus1ta> VAMOOOOO CARGOOOO
+[00:53:07] [Server thread/INFO]: <Sakuy_Ish> acostumbrate a ser tecnica
+[00:53:13] [Server thread/INFO]: <P3lus1ta> JAAJAJAJAJA yaaa
+[00:53:16] [Server thread/INFO]: <Sakuy_Ish> muak
+[00:53:19] [Server thread/INFO]: <P3lus1ta> muakmuak
+[00:53:27] [Server thread/INFO]: <Sakuy_Ish> tenemo q ponerle el mod de skins pero depue
+[00:53:35] [Server thread/INFO]: <P3lus1ta> pera
+[00:53:42] [Server thread/INFO]: Sakuy_Ish has just earned the achievement [Welcome to MC Helicopter MOD]
+[00:53:42] [Server thread/INFO]: <P3lus1ta> wa poner maus
+[00:54:32] [Server thread/INFO]: <P3lus1ta> litoo
